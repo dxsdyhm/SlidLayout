@@ -1,4 +1,4 @@
-package com.view.dansesshou.library;
+package com.view.dansesshou.slidlayou;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
